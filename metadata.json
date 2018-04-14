@@ -1,0 +1,15 @@
+{
+  "name": "chaitanya2444411-ssh",
+  "version": "0.1.0",
+  "author": "krish",
+  "summary": "ssh module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/chaitanya24441/PUPPET-SSH2017",
+  "project_page": "https://github.com/chaitanya24441/PUPPET-SSH2017",
+  "issues_url": "https://github.com/chaitanya24441/PUPPET-SSH2017/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
